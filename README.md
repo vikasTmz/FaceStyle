@@ -10,17 +10,11 @@ In this repository you can find the code and models to generate the aforemention
 
 ## Theory
 
-<figure class="image">
-  <img src="{{https://i.imgur.com/0UcjEmz.png}}" alt="{{Source [1]}}">
-  <figcaption>{{}}</figcaption>
-</figure>
+<img src="https://i.imgur.com/0UcjEmz.png"/>
+*Fig. 1: Source [1]*
 
-<figure class="image">
-  <img src="{{https://i.imgur.com/hhvbIJl.png}}" alt="{{Source [1]}}">
-  <figcaption>{{}}</figcaption>
-</figure>
-
-
+<img src="https://i.imgur.com/hhvbIJl.png"/>
+*Fig. 2: Source [1]*
 
 ## Citation
 
