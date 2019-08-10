@@ -16,6 +16,17 @@ In this repository you can find the code and models to generate the aforemention
 <img src="https://i.imgur.com/hhvbIJl.png"/>
 *Fig. 2: Source [1]*
 
+## Tasks:
+
+### G_seg:
+
+[1] Hair segmentation:
+
+[2] Face segmentation:
+
+[3] Face landmarks estimation:
+
+
 ## Citation
 
 ```
